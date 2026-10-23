@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Slideshow output and working files
+slideshow_work/
+*.mp4
+*.part.mp4
